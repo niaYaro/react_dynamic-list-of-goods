@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,SAAU,CACX,MAGC,UAAW,CACZ,OAGC,WAAY,CACb,OAGC,YAAa","file":"main.46482e19.chunk.css","sourcesContent":[".red {\n  color: red;\n}\n\n.blue {\n  color: blue;\n}\n\n.green {\n  color: green;\n}\n\niframe {\n  display: none;\n}\n"]}
